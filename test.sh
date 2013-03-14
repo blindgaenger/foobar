@@ -7,5 +7,4 @@ for i in {1..10}; do
   sleep 1
 done
 
-echo "FAIL HARD"
-exit 1
+exit 0
